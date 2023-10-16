@@ -154,7 +154,7 @@
 
           <div>
             <span class="progress">
-              <span style="background-color: #3572A5;width: 29.38933%;" class="progress-item"></span><span style="background-color: #41b883;width: 23.85328%;" class="progress-item"></span><span style="background-color: #a52a22;width: 20.50189%;" class="progress-item"></span><span style="background-color: #844FBA;width: 20.23420%;" class="progress-item"></span><span style="background-color: #89e051;width: 3.38218%;" class="progress-item"></span><span style="background-color: #f1e05a;width: 2.09026%;" class="progress-item"></span><span style="background-color: #384d54;width: 0.54886%;" class="progress-item"></span>
+              <span style="background-color: #3572A5;width: 29.38543%;" class="progress-item"></span><span style="background-color: #41b883;width: 23.85011%;" class="progress-item"></span><span style="background-color: #a52a22;width: 20.49917%;" class="progress-item"></span><span style="background-color: #844FBA;width: 20.23152%;" class="progress-item"></span><span style="background-color: #89e051;width: 3.39499%;" class="progress-item"></span><span style="background-color: #f1e05a;width: 2.08999%;" class="progress-item"></span><span style="background-color: #384d54;width: 0.54879%;" class="progress-item"></span>
             </span>
           </div>
 
@@ -252,7 +252,7 @@
                         Shell
                     </span>
                     <span class="percent">
-                        3.38%
+                        3.39%
                     </span>
             </li>
             <li style="animation-delay: 750ms;">
