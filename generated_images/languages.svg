@@ -154,7 +154,7 @@
 
           <div>
             <span class="progress">
-              <span style="background-color: #3572A5;width: 31.90697%;" class="progress-item"></span><span style="background-color: #a52a22;width: 28.33528%;" class="progress-item"></span><span style="background-color: #41b883;width: 20.01390%;" class="progress-item"></span><span style="background-color: #844FBA;width: 13.78518%;" class="progress-item"></span><span style="background-color: #89e051;width: 3.43772%;" class="progress-item"></span><span style="background-color: #f1e05a;width: 1.49236%;" class="progress-item"></span><span style="background-color: #384d54;width: 0.95000%;" class="progress-item"></span><span style="background-color: #e4cc98;width: 0.07859%;" class="progress-item"></span>
+              <span style="background-color: #3572A5;width: 31.90605%;" class="progress-item"></span><span style="background-color: #a52a22;width: 28.33447%;" class="progress-item"></span><span style="background-color: #41b883;width: 20.01332%;" class="progress-item"></span><span style="background-color: #844FBA;width: 13.78479%;" class="progress-item"></span><span style="background-color: #89e051;width: 3.43763%;" class="progress-item"></span><span style="background-color: #f1e05a;width: 1.49232%;" class="progress-item"></span><span style="background-color: #384d54;width: 0.95286%;" class="progress-item"></span><span style="background-color: #e4cc98;width: 0.07858%;" class="progress-item"></span>
             </span>
           </div>
 
@@ -195,7 +195,7 @@
                         Jinja
                     </span>
                     <span class="percent">
-                        28.34%
+                        28.33%
                     </span>
             </li>
             <li style="animation-delay: 300ms;">
@@ -233,7 +233,7 @@
                         HCL
                     </span>
                     <span class="percent">
-                        13.79%
+                        13.78%
                     </span>
             </li>
             <li style="animation-delay: 600ms;">
