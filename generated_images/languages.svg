@@ -154,7 +154,7 @@
 
           <div>
             <span class="progress">
-              <span style="background-color: #3178c6;width: 24.92320%;" class="progress-item"></span><span style="background-color: #3572A5;width: 22.85166%;" class="progress-item"></span><span style="background-color: #a52a22;width: 20.00283%;" class="progress-item"></span><span style="background-color: #41b883;width: 14.12032%;" class="progress-item"></span><span style="background-color: #844FBA;width: 13.34496%;" class="progress-item"></span><span style="background-color: #89e051;width: 2.47635%;" class="progress-item"></span><span style="background-color: #f1e05a;width: 1.08972%;" class="progress-item"></span><span style="background-color: #384d54;width: 0.94083%;" class="progress-item"></span><span style="background-color: #e34c26;width: 0.19470%;" class="progress-item"></span><span style="background-color: #e4cc98;width: 0.05544%;" class="progress-item"></span>
+              <span style="background-color: #3178c6;width: 25.04619%;" class="progress-item"></span><span style="background-color: #3572A5;width: 22.81422%;" class="progress-item"></span><span style="background-color: #a52a22;width: 19.97006%;" class="progress-item"></span><span style="background-color: #41b883;width: 14.09718%;" class="progress-item"></span><span style="background-color: #844FBA;width: 13.32310%;" class="progress-item"></span><span style="background-color: #89e051;width: 2.47229%;" class="progress-item"></span><span style="background-color: #f1e05a;width: 1.08793%;" class="progress-item"></span><span style="background-color: #384d54;width: 0.93929%;" class="progress-item"></span><span style="background-color: #e34c26;width: 0.19438%;" class="progress-item"></span><span style="background-color: #e4cc98;width: 0.05535%;" class="progress-item"></span>
             </span>
           </div>
 
@@ -176,7 +176,7 @@
                         TypeScript
                     </span>
                     <span class="percent">
-                        24.92%
+                        25.05%
                     </span>
             </li>
             <li style="animation-delay: 150ms;">
@@ -195,7 +195,7 @@
                         Python
                     </span>
                     <span class="percent">
-                        22.85%
+                        22.81%
                     </span>
             </li>
             <li style="animation-delay: 300ms;">
@@ -214,7 +214,7 @@
                         Jinja
                     </span>
                     <span class="percent">
-                        20.00%
+                        19.97%
                     </span>
             </li>
             <li style="animation-delay: 450ms;">
@@ -233,7 +233,7 @@
                         Vue
                     </span>
                     <span class="percent">
-                        14.12%
+                        14.10%
                     </span>
             </li>
             <li style="animation-delay: 600ms;">
@@ -252,7 +252,7 @@
                         HCL
                     </span>
                     <span class="percent">
-                        13.34%
+                        13.32%
                     </span>
             </li>
             <li style="animation-delay: 750ms;">
@@ -271,7 +271,7 @@
                         Shell
                     </span>
                     <span class="percent">
-                        2.48%
+                        2.47%
                     </span>
             </li>
             <li style="animation-delay: 900ms;">
