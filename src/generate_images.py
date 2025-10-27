@@ -7,6 +7,7 @@ from os.path import isdir
 from re import sub
 from datetime import datetime
 
+
 from src.env_vars import EnvironmentVariables
 from src.github_repo_stats import GitHubRepoStats
 
