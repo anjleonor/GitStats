@@ -1,4 +1,4 @@
-<!-- Generated: 2025-10-28T02:12:56.575646Z -->
+<!-- Generated: 2025-10-29T02:20:28.370185Z -->
 <svg width="485" height="260" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 485 260">
   <style>
     svg {
@@ -155,7 +155,7 @@
 
           <div>
             <span class="progress">
-              <span style="background-color: #3572A5;width: 26.06624%;" class="progress-item"></span><span style="background-color: #3178c6;width: 23.53704%;" class="progress-item"></span><span style="background-color: #a52a22;width: 13.47409%;" class="progress-item"></span><span style="background-color: #89e051;width: 12.35854%;" class="progress-item"></span><span style="background-color: #41b883;width: 11.42240%;" class="progress-item"></span><span style="background-color: #844FBA;width: 8.59171%;" class="progress-item"></span><span style="background-color: #f1e05a;width: 1.67574%;" class="progress-item"></span><span style="background-color: #012456;width: 1.57098%;" class="progress-item"></span><span style="background-color: #384d54;width: 0.55102%;" class="progress-item"></span><span style="background-color: #701516;width: 0.41777%;" class="progress-item"></span><span style="background-color: #f0c040;width: 0.17698%;" class="progress-item"></span><span style="background-color: #e34c26;width: 0.15750%;" class="progress-item"></span>
+              <span style="background-color: #3572A5;width: 26.02538%;" class="progress-item"></span><span style="background-color: #3178c6;width: 23.50015%;" class="progress-item"></span><span style="background-color: #a52a22;width: 13.45297%;" class="progress-item"></span><span style="background-color: #89e051;width: 12.33917%;" class="progress-item"></span><span style="background-color: #41b883;width: 11.40450%;" class="progress-item"></span><span style="background-color: #844FBA;width: 8.57825%;" class="progress-item"></span><span style="background-color: #012456;width: 1.72525%;" class="progress-item"></span><span style="background-color: #f1e05a;width: 1.67312%;" class="progress-item"></span><span style="background-color: #384d54;width: 0.55016%;" class="progress-item"></span><span style="background-color: #701516;width: 0.41711%;" class="progress-item"></span><span style="background-color: #f0c040;width: 0.17670%;" class="progress-item"></span><span style="background-color: #e34c26;width: 0.15725%;" class="progress-item"></span>
             </span>
           </div>
 
@@ -177,7 +177,7 @@
                         Python
                     </span>
                     <span class="percent">
-                        26.07%
+                        26.03%
                     </span>
             </li>
             <li style="animation-delay: 150ms;">
@@ -196,7 +196,7 @@
                         TypeScript
                     </span>
                     <span class="percent">
-                        23.54%
+                        23.50%
                     </span>
             </li>
             <li style="animation-delay: 300ms;">
@@ -215,7 +215,7 @@
                         Jinja
                     </span>
                     <span class="percent">
-                        13.47%
+                        13.45%
                     </span>
             </li>
             <li style="animation-delay: 450ms;">
@@ -234,7 +234,7 @@
                         Shell
                     </span>
                     <span class="percent">
-                        12.36%
+                        12.34%
                     </span>
             </li>
             <li style="animation-delay: 600ms;">
@@ -253,7 +253,7 @@
                         Vue
                     </span>
                     <span class="percent">
-                        11.42%
+                        11.40%
                     </span>
             </li>
             <li style="animation-delay: 750ms;">
@@ -272,29 +272,10 @@
                         HCL
                     </span>
                     <span class="percent">
-                        8.59%
+                        8.58%
                     </span>
             </li>
             <li style="animation-delay: 900ms;">
-                    <svg xmlns="http://www.w3.org/2000/svg" 
-                         class="octicon" 
-                         style="fill:#f1e05a;"
-                         viewBox="0 0 16 16" 
-                         version="1.1" 
-                         width="16" 
-                         height="16">
-                            <path fill-rule="evenodd" 
-                                  d="M8 4a4 4 0 100 8 4 4 0 000-8z">
-                            </path>
-                    </svg>
-                    <span class="lang">
-                        JavaScript
-                    </span>
-                    <span class="percent">
-                        1.68%
-                    </span>
-            </li>
-            <li style="animation-delay: 1050ms;">
                     <svg xmlns="http://www.w3.org/2000/svg" 
                          class="octicon" 
                          style="fill:#012456;"
@@ -310,7 +291,26 @@
                         PowerShell
                     </span>
                     <span class="percent">
-                        1.57%
+                        1.73%
+                    </span>
+            </li>
+            <li style="animation-delay: 1050ms;">
+                    <svg xmlns="http://www.w3.org/2000/svg" 
+                         class="octicon" 
+                         style="fill:#f1e05a;"
+                         viewBox="0 0 16 16" 
+                         version="1.1" 
+                         width="16" 
+                         height="16">
+                            <path fill-rule="evenodd" 
+                                  d="M8 4a4 4 0 100 8 4 4 0 000-8z">
+                            </path>
+                    </svg>
+                    <span class="lang">
+                        JavaScript
+                    </span>
+                    <span class="percent">
+                        1.67%
                     </span>
             </li>
             <li style="animation-delay: 1200ms;">
