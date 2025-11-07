@@ -1,4 +1,4 @@
-<!-- Generated: 2025-11-06T02:18:35.094768Z -->
+<!-- Generated: 2025-11-07T02:16:22.243130Z -->
 <svg width="485" height="260" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 485 260">
   <style>
     svg {
@@ -155,7 +155,7 @@
 
           <div>
             <span class="progress">
-              <span style="background-color: #3572A5;width: 26.02538%;" class="progress-item"></span><span style="background-color: #3178c6;width: 23.50015%;" class="progress-item"></span><span style="background-color: #a52a22;width: 13.45297%;" class="progress-item"></span><span style="background-color: #89e051;width: 12.33917%;" class="progress-item"></span><span style="background-color: #41b883;width: 11.40450%;" class="progress-item"></span><span style="background-color: #844FBA;width: 8.57825%;" class="progress-item"></span><span style="background-color: #012456;width: 1.72525%;" class="progress-item"></span><span style="background-color: #f1e05a;width: 1.67312%;" class="progress-item"></span><span style="background-color: #384d54;width: 0.55016%;" class="progress-item"></span><span style="background-color: #701516;width: 0.41711%;" class="progress-item"></span><span style="background-color: #f0c040;width: 0.17670%;" class="progress-item"></span><span style="background-color: #e34c26;width: 0.15725%;" class="progress-item"></span>
+              <span style="background-color: #3572A5;width: 26.02829%;" class="progress-item"></span><span style="background-color: #3178c6;width: 23.50277%;" class="progress-item"></span><span style="background-color: #a52a22;width: 13.45447%;" class="progress-item"></span><span style="background-color: #89e051;width: 12.34055%;" class="progress-item"></span><span style="background-color: #41b883;width: 11.40577%;" class="progress-item"></span><span style="background-color: #844FBA;width: 8.56805%;" class="progress-item"></span><span style="background-color: #012456;width: 1.72544%;" class="progress-item"></span><span style="background-color: #f1e05a;width: 1.67330%;" class="progress-item"></span><span style="background-color: #384d54;width: 0.55022%;" class="progress-item"></span><span style="background-color: #701516;width: 0.41716%;" class="progress-item"></span><span style="background-color: #f0c040;width: 0.17672%;" class="progress-item"></span><span style="background-color: #e34c26;width: 0.15727%;" class="progress-item"></span>
             </span>
           </div>
 
@@ -253,7 +253,7 @@
                         Vue
                     </span>
                     <span class="percent">
-                        11.40%
+                        11.41%
                     </span>
             </li>
             <li style="animation-delay: 750ms;">
@@ -272,7 +272,7 @@
                         HCL
                     </span>
                     <span class="percent">
-                        8.58%
+                        8.57%
                     </span>
             </li>
             <li style="animation-delay: 900ms;">
