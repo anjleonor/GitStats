@@ -1,4 +1,4 @@
-<!-- Generated: 2025-11-10T02:22:39.711311Z -->
+<!-- Generated: 2025-11-11T02:18:44.519147Z -->
 <svg width="485" height="260" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 485 260">
   <style>
     svg {
@@ -155,7 +155,7 @@
 
           <div>
             <span class="progress">
-              <span style="background-color: #3572A5;width: 26.02922%;" class="progress-item"></span><span style="background-color: #3178c6;width: 23.50198%;" class="progress-item"></span><span style="background-color: #a52a22;width: 13.45402%;" class="progress-item"></span><span style="background-color: #89e051;width: 12.34013%;" class="progress-item"></span><span style="background-color: #41b883;width: 11.40538%;" class="progress-item"></span><span style="background-color: #844FBA;width: 8.56932%;" class="progress-item"></span><span style="background-color: #012456;width: 1.72538%;" class="progress-item"></span><span style="background-color: #f1e05a;width: 1.67325%;" class="progress-item"></span><span style="background-color: #384d54;width: 0.55020%;" class="progress-item"></span><span style="background-color: #701516;width: 0.41714%;" class="progress-item"></span><span style="background-color: #f0c040;width: 0.17671%;" class="progress-item"></span><span style="background-color: #e34c26;width: 0.15726%;" class="progress-item"></span>
+              <span style="background-color: #3572A5;width: 26.01870%;" class="progress-item"></span><span style="background-color: #3178c6;width: 23.53291%;" class="progress-item"></span><span style="background-color: #a52a22;width: 13.44858%;" class="progress-item"></span><span style="background-color: #89e051;width: 12.33514%;" class="progress-item"></span><span style="background-color: #41b883;width: 11.40077%;" class="progress-item"></span><span style="background-color: #844FBA;width: 8.56585%;" class="progress-item"></span><span style="background-color: #012456;width: 1.72468%;" class="progress-item"></span><span style="background-color: #f1e05a;width: 1.67257%;" class="progress-item"></span><span style="background-color: #384d54;width: 0.54998%;" class="progress-item"></span><span style="background-color: #701516;width: 0.41698%;" class="progress-item"></span><span style="background-color: #f0c040;width: 0.17664%;" class="progress-item"></span><span style="background-color: #e34c26;width: 0.15720%;" class="progress-item"></span>
             </span>
           </div>
 
@@ -177,7 +177,7 @@
                         Python
                     </span>
                     <span class="percent">
-                        26.03%
+                        26.02%
                     </span>
             </li>
             <li style="animation-delay: 150ms;">
@@ -196,7 +196,7 @@
                         TypeScript
                     </span>
                     <span class="percent">
-                        23.50%
+                        23.53%
                     </span>
             </li>
             <li style="animation-delay: 300ms;">
@@ -253,7 +253,7 @@
                         Vue
                     </span>
                     <span class="percent">
-                        11.41%
+                        11.40%
                     </span>
             </li>
             <li style="animation-delay: 750ms;">
@@ -291,7 +291,7 @@
                         PowerShell
                     </span>
                     <span class="percent">
-                        1.73%
+                        1.72%
                     </span>
             </li>
             <li style="animation-delay: 1050ms;">
